@@ -33,7 +33,7 @@ java {
 
 application {
     // Define the main class for the application.
-    mainClass = 'edu.handong.csee.java.example.PrintWriterDemo'
+    mainClass = 'edu.handong.csee.java.example.fileread.benchmark.UsingBufferedReader'
 }
 
 tasks.named('test') {
